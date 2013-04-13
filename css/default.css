@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif,serif;
+    list-style: none;
+}
+
+#container {
+    width: 1000px;
+    margin: auto;
+}
+
+#area_login{
+    width:300px;
+    height: 300px;
+    border: 1px solid #666666;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.centralizado{text-align: center; margin: auto;}
+.afastar_top{margin-top: 100px;}
